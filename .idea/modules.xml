@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigWinEmail/BigWinEmail.iml" filepath="$PROJECT_DIR$/BigWinEmail/BigWinEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigWinNotifs.iml" filepath="$PROJECT_DIR$/BigWinNotifs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigWinOperators/BigWinOperators.iml" filepath="$PROJECT_DIR$/BigWinOperators/BigWinOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigWinProviders/BigWinProviders.iml" filepath="$PROJECT_DIR$/BigWinProviders/BigWinProviders.iml" />
+    </modules>
+  </component>
+</project>
