@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="BigWinProviders" />
     <orderEntry type="module" module-name="BigWinOperators" />
+    <orderEntry type="library" name="sun.mail.javax" level="project" />
   </component>
 </module>
