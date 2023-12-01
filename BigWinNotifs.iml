@@ -8,5 +8,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sun.mail.javax" level="project" />
+    <orderEntry type="library" name="fasterxml.jackson.core.databind" level="project" />
+    <orderEntry type="library" name="eclipse.ecf.apache.httpcomponents.httpclient" level="project" />
+    <orderEntry type="library" name="apache.httpcomponents.httpclient" level="project" />
   </component>
 </module>
