@@ -19,7 +19,7 @@ import org.apache.http.entity.StringEntity;
 import org.apache.http.util.EntityUtils;
 
 public class Main {
-    private static final String EMAIL_USERNAME = "testertestamente@gmail.com";
+    private static final String EMAIL_USERNAME = ".";
     private static final String EMAIL_PASSWORD = ".";
 
 
@@ -170,8 +170,8 @@ public class Main {
                 String issueType = "Task";
                 String summary = "Test for now";
 
-                String username = "testertestamente@gmail.com";
-                String password = "ATATT3xFfGF0yiWSOFEFeOehbMp16bq2Dql-BVOLSmTz_hWDgf2MWWnIZY3H_x_bf3U4EHvxBCF91Qd7c0n97ura-Qy7MaqJALskZb5_SHZkOVO1y1d0wwCNye7OPb6MbEiwvP5G3P-FNgb9SZeDFz6VIwozqHrglIE3656FfVSeVqki0LYbd2A=0CAF1C19";
+                String username = ".";
+                String password = ".";
 
                 String jsonPayload = String.format(
                         "{\"fields\":{\"project\":{\"key\":\"%s\"},\"issuetype\":{\"name\":\"%s\"},\"summary\":\"%s\"}}",
